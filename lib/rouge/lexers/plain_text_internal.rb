@@ -6,7 +6,7 @@ module Rouge
       title "Plain Text Internal"
       desc "A boring lexer that doesn't highlight anything"
 
-      tag 'plaintextinteral'
+      tag 'plaintextinternal'
       aliases 'text'
       filenames '*.txt'
       mimetypes 'text/plain'

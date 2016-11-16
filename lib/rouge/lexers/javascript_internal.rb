@@ -1,7 +1,7 @@
 require 'rouge'
 module Rouge
   module Lexers
-    class Node < Rouge::Lexers::Javascript
+    class Jsi < Rouge::Lexers::Javascript
       tag 'jsinternal'
     end
   end

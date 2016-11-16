@@ -1,7 +1,7 @@
 require 'rouge'
 module Rouge
   module Lexers
-    class Pti < Rouge::Lexers::PlainText
+    class PlainTextInternal < Rouge::Lexers::PlainText
       tag 'plaintextinternal'
     end
   end
